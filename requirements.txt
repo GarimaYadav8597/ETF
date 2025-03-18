@@ -1,6 +1,9 @@
 opensearch-py
+aws-requests-auth
+plotly
 streamlit
 pandas
-numpy
-aws-requests-auth
+requests
+config
+
 
