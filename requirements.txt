@@ -2,3 +2,5 @@ opensearch-py
 streamlit
 pandas
 numpy
+aws-requests-auth
+
