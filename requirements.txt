@@ -1,0 +1,4 @@
+opensearch-py
+streamlit
+pandas
+numpy
